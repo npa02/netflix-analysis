@@ -117,7 +117,7 @@ pip install -r requirements.txt
 
 ## Sample Visualizations
 
-![Type Distribution](results/type_distribution.png)
+![Type Distribution](results/movie_duration_distribution.png)
 ![Rating Distribution](results/rating_distribution.png)
 ![Genre WordCloud](results/genre_wordcloud.png)
 
