@@ -97,7 +97,7 @@ You can download the dataset from: [Netflix Dataset on Kaggle](https://www.kaggl
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/netflix-data-analysis.git
+git clone https://github.com/npa02/netflix-data-analysis.git
 cd netflix-data-analysis
 ```
 
